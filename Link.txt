@@ -1,1 +1,1 @@
-URL: docker.io/andrid02/ubuntu
+URL: https://hub.docker.com/r/andrid02/tinf2019
